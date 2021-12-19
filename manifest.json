@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Awoobooru",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "icons": {
         "32": "icon32.png",
         "64": "icon64.png",
@@ -31,7 +31,7 @@
                 "*://*.donmai.us/*"
             ],
             "js": [
-                "scripts/jquery-3.3.1.min.js",
+                "scripts/jquery-3.6.0.min.js",
                 "scripts/bootstrap.bundle.min.js",
                 "scripts/content.js"
             ],
